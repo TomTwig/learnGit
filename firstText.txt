@@ -1,1 +1,2 @@
-this is the first file
+Hi, This is the first file.
+Adding a new Line.
